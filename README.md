@@ -1,27 +1,27 @@
-<!-- 💥 Legendary GitHub README: Aarnav Singh Rathore -->
+<!-- 💥 Final GitHub README: Aarnav Singh Rathore -->
 
 <h1 align="center">🚀 Hey, I'm <span style="color:#FF3C00;">Aarnav Singh Rathore</span></h1>
-<h3 align="center">Full Stack Developer | Machine Learning Engineer | Builder of Smart Things</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Engineer | Creative Technologist</h3>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/AarnavSinghRathore72/AarnavSinghRathore72/assets/ironman-coding.gif" alt="Iron Man Coding" width="600"/>
+  <img src="https://github.com/AarnavSinghRathore72/AarnavSinghRathore72/assets/ironman-arc-reactor.gif" alt="Iron Man Arc Reactor" width="600"/>
 </p>
 
 ---
 
 ### 💡 About Me  
-- 🔭 Currently developing **AI-driven full-stack apps** using **Next.js, Django & React**  
-- ⚙️ Exploring **TypeScript**, **Neural APIs**, and **3D user interfaces**  
-- 🧠 I love building systems that *think, adapt, and look awesome*  
-- 💬 Ask me about **Python, Machine Learning, and System Design**  
-- 🧩 I turn ideas into products — fast, scalable, and designed to impress  
+- 🔭 Building **AI-driven full-stack apps** using **Next.js, Django, and React**  
+- 🌱 Learning **TypeScript**, **neural APIs**, and **next-gen 3D web interfaces**  
+- ⚙️ I love turning ideas into interactive, scalable experiences  
+- 💬 Ask me about **Python, Machine Learning, or building real-world projects**  
+- 🧩 I blend creativity and logic — just like Tony Stark would  
 
 ---
 
 ### 🌐 Portfolio  
-🎨 [See my creations → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
+🎨 [Explore my work → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🦾 Iron Man Mode: Online  
 <p align="center">
-  <img src="https://i.giphy.com/media/1dIo3kVvqkRLWcU1Mn/giphy.gif" width="550" alt="Iron Man Helmet Scan"/>
+  <img src="https://i.imgur.com/hX7O2hY.gif" width="600" alt="Iron Man Helmet Interface"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ---
 
 ### ⚡ Fun Fact  
-> I love **MUNs, debates,** and coding like I’m designing my own **JARVIS**.
+> I love **MUNs, debates**, and coding like I’m building my own **JARVIS**.
 
 ---
 
