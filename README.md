@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarnav Singh Rathpre</h1>
+<h1 align="center">Hi 👋, I'm Aarnav Singh Rathore</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🌱 I’m currently learning **React, Next.js, JavaScript**
