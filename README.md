@@ -1,7 +1,7 @@
-<!-- Sexy GitHub README by Aarnav Singh Rathore -->
+<!-- 🔥 Ultimate GitHub README: Aarnav Singh Rathore -->
 
-<h1 align="center">⚡ Hey there, I'm <span style="color:#00BFFF;">Aarnav Singh Rathore</span></h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Problem Solver</h3>
+<h1 align="center">⚡ Hey there, I'm <span style="color:#ff4b2b;">Aarnav Singh Rathore</span></h1>
+<h3 align="center">Full Stack Developer ⚙️ | Machine Learning Enthusiast 🤖 | Creative Builder 💡</h3>
 
 ---
 
@@ -12,16 +12,16 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently building **scalable full-stack projects** with **Next.js + Django + React**  
-- 🌱 Diving deeper into **TypeScript**, **AI APIs**, and **3D web experiences**  
-- 💡 Passionate about blending **tech + creativity** — from ML apps to game dev in Unity  
-- 🎯 Focused on **clarity, performance, and design that feels alive**  
-- ⚡ When I’m not coding, I’m probably debating, crafting ideas, or experimenting with something wild  
+- 🔭 Currently working on **AI-powered web apps** with **Next.js + Django + React**  
+- 🌱 Learning **TypeScript**, **system design**, and **3D interactions**  
+- 🧠 Obsessed with solving complex problems through clean, scalable code  
+- 💬 Ask me about **Python, ML, or full-stack workflows**  
+- ⚡ I mix logic with creativity — sometimes literally in Unity  
 
 ---
 
 ### 🌐 Portfolio  
-🖥️ [Check out my work → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
+🖥️ [Explore my projects → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
 
 ---
 
@@ -44,6 +44,13 @@
 
 ---
 
+### 🦾 Iron Man Mode Activated  
+<p align="center">
+  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/tony-stark-iron-man.gif" width="550"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnavsinghrathore72&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br><br>
@@ -53,11 +60,11 @@
 
 ---
 
-### 🧩 Fun Fact  
-> I don’t chase trends — I build what’s next.  
+### ⚡ Fun Fact  
+> I love debates, MUNs, and coding like I’m building my own JARVIS.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00BFFF,100:purple&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff4b2b,100:8A2BE2&section=footer"/>
 </p>
