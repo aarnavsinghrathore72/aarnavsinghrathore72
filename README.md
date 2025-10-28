@@ -1,27 +1,27 @@
-<!-- 💥 Final GitHub README: Aarnav Singh Rathore -->
+<!-- ⚡ Aarnav Singh Rathore | Final Polished GitHub README -->
 
 <h1 align="center">🚀 Hey, I'm <span style="color:#FF3C00;">Aarnav Singh Rathore</span></h1>
-<h3 align="center">Full Stack Developer | Machine Learning Engineer | Creative Technologist</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Engineer | Creative Builder</h3>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/AarnavSinghRathore72/AarnavSinghRathore72/assets/ironman-arc-reactor.gif" alt="Iron Man Arc Reactor" width="600"/>
+  <img src="https://i.imgur.com/zPPhE6F.gif" width="600" alt="Neon Tech Lines Animation"/>
 </p>
 
 ---
 
 ### 💡 About Me  
-- 🔭 Building **AI-driven full-stack apps** using **Next.js, Django, and React**  
-- 🌱 Learning **TypeScript**, **neural APIs**, and **next-gen 3D web interfaces**  
-- ⚙️ I love turning ideas into interactive, scalable experiences  
-- 💬 Ask me about **Python, Machine Learning, or building real-world projects**  
-- 🧩 I blend creativity and logic — just like Tony Stark would  
+- 🔭 Building **AI-powered full-stack experiences** with **Next.js, Django, and React**  
+- 🌱 Learning **TypeScript**, **Neural APIs**, and **high-performance UI systems**  
+- ⚙️ Passionate about **systems that think, move, and inspire**  
+- 💬 Ask me about **Python, ML, Django, or scalable app design**  
+- 🎯 Turning ideas into *real, impactful, and visually stunning* products  
 
 ---
 
 ### 🌐 Portfolio  
-🎨 [Explore my work → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
+🎨 [Check out my work → aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
 
 ---
 
@@ -44,14 +44,7 @@
 
 ---
 
-### 🦾 Iron Man Mode: Online  
-<p align="center">
-  <img src="https://i.imgur.com/hX7O2hY.gif" width="600" alt="Iron Man Helmet Interface"/>
-</p>
-
----
-
-### 📈 GitHub Analytics  
+### ⚡ GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnavsinghrathore72&theme=radical&hide_border=true" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=aarnavsinghrathore72&show_icons=true&theme=radical&hide_border=true" /><br><br>
@@ -61,7 +54,7 @@
 ---
 
 ### ⚡ Fun Fact  
-> I love **MUNs, debates**, and coding like I’m building my own **JARVIS**.
+> I love **MUNs, debates**, and building code that looks as good as it performs.
 
 ---
 
