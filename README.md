@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Yo! I'm <span style="color:#00BFFF;">Aarnav Singh Rathore</span></h1>
-<h3 align="center">Full‑Stack Dev · Machine Learning Buff · Idea Alchemist</h3>
+<h3 align="center">Full-Stack Dev · Machine Learning Buff · Idea Alchemist</h3>
 
 <!-- Spark Divider -->
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 ### 🚀 Quick Vibes  
-- 🚦 Architecting **next‑level web apps** with Next.js, Django & React  
+- 🚦 Architecting **next-level web apps** with Next.js, Django & React  
 - 📡 Automating workflows, training ML models, and building 3D playgrounds  
 - 🎨 Always sharpening **design, performance, and user joy**  
 - 🛠️ Love remixing tech — from Unity game dev to AI APIs  
@@ -26,18 +26,6 @@
 
 ### 🌐 Dive In — Portfolio  
 🌈 [aarnav-portfolio-lime.vercel.app](https://aarnav-portfolio-lime.vercel.app/)
-
----
-
-### 🤝 Let’s Connect  
-<p align="left">
-  <a href="https://linkedin.com/in/aarnav-singh-rathore-087b9138b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:aarnavsinghrathore72@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
 
 ---
 
@@ -53,6 +41,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarnavsinghrathore72&theme=tokyonight&hide_border=true" alt="GitHub Streak"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=aarnavsinghrathore72&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnavsinghrathore72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🤝 Let’s Connect  
+<p align="left">
+  <a href="https://linkedin.com/in/aarnav-singh-rathore-087b9138b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:aarnavsinghrathore72@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
